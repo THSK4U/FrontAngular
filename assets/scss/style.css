@@ -2643,10 +2643,6 @@ button:focus {
   overflow: hidden;
 }
 
-.apexcharts-canvas {
-  width: 100% !important;
-}
-
 .img-cropper .dropup .dropdown-toggle::after {
   content: "";
   display: none;
@@ -10035,14 +10031,6 @@ svg.collapse-open, svg.collapse-close {
   border: 1px solid rgba(0, 0, 0, 0.2) !important;
 }
 
-.offcanvas.offcanvas-end {
-  width: auto !important;
-}
-
-.offcanvas.offcanvas-end.em-payrol-add {
-  max-width: 1192px !important;
-}
-
 .modal.animated .modal-dialog {
   transform: translate(0, 0);
 }
@@ -12793,10 +12781,7 @@ th .checkboxs .checkmarks::after, td .checkboxs .checkmarks::after {
 [data-layout-mode=dark_mode] .accordion-body {
   background: #1d1d42;
 }
-[data-layout-mode=dark_mode] .offcanvas {
-  background: #1d1d42;
-  color: #97A2D2 !important;
-}
+
 [data-layout-mode=dark_mode] .activity .activity-list li {
   background-color: #141432;
   border: 1px solid #353570;
